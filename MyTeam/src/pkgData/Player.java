@@ -14,8 +14,10 @@ public class Player {
 
 	@Override
 	public String toString() {
-		return "Player [numberPlayer=" + numberPlayer + ", namePlayer=" + namePlayer + ", positionPlayer="
-				+ positionPlayer + "]";
+		/*return "Player [numberPlayer=" + numberPlayer + ", namePlayer=" + namePlayer + ", positionPlayer="
+				+ positionPlayer + "]";*/
+		
+		return "this is new toString()";
 	}
 	
 	
